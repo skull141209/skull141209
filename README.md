@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skull141209
+- 👋 Hi, I’m Đoàn Nguyễn Minh Đức
 - 👀 I’m interested in Business Analyst position
 - 🌱 I’m currently learning Data analyst by python
 - 💞️ I’m looking to collaborate on web development
